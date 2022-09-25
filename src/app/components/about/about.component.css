@@ -55,3 +55,17 @@
   color: #fff;
   text-decoration: none;
 }
+
+.mapa{
+  background: #fff;
+}
+
+.mapa path{
+  fill: #009961;
+  stroke: #fcec04;
+  stroke-width: 2px;
+}
+
+.mapa :hover{
+  fill: #fcec04;
+}
